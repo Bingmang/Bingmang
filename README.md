@@ -12,7 +12,7 @@
 - The Linux Programming Interface: A Linux and UNIX System Programming Handbook
 - Golang
 
-## 🔧 I worked at
+## 🔧 I'm used to working at
 
 - Software Engineer at Xiaomi.com
 - Software Engineer at JD.com
