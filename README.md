@@ -1,5 +1,9 @@
 👋 Hi, I'm Todd! Welcome to my GitHub Profile.
 
+<details>
+<summary><strong>PROFILE</strong></summary>
+<div>
+
 ## 🔭 I’m currently working on
 
 - 🎓 Pursuing Master Degree at University of Science & Technology Beijing
@@ -27,6 +31,8 @@
 
 - 📮 todd.g@qq.com
 
+</div>
+</details>
 
 <!--
 **Bingmang/Bingmang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
