@@ -1,7 +1,7 @@
 👋 Hi, I'm Todd! Welcome to my GitHub Profile.
 
 <details>
-<summary><strong>PROFILE</strong></summary>
+<summary><strong>PROFILE</strong>&nbsp&nbsp&nbsp&nbsp <-&nbsp click me!</summary> 
 <div>
 
 ## 🔭 I’m currently working on
