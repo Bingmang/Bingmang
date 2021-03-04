@@ -22,7 +22,7 @@
 ## 🔧 Worked at ...
 
 - Software Engineer at Xiaomi.com (ETL, Spark, Scala, ELK)
-- Software Engineer at JD.com (Node, Devops)
+- Software Engineer at JD.com (Node, Back-end, Devops)
 
 ## 📫 How to reach me
 
