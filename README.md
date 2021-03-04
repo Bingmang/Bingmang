@@ -3,31 +3,26 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bingmang)](https://github.com/ryo-ma/github-profile-trophy)
 
 <details>
-<summary><strong>PROFILE</strong>&nbsp&nbsp&nbsp&nbsp <-&nbsp click me!</summary> 
+<summary><strong>PROFILE</strong>&nbsp&nbsp&nbsp&nbsp <-&nbsp CLICK ME!</summary> 
 <div>
 
-## 🔭 I’m currently working on
+## 🔭 Working on...
 
-- 🎓 Pursuing Master Degree at University of Science & Technology Beijing
-- 🔧 Developing a Golang Web Server and a PyQt desktop client
-- 🎮 Playing Maplestory and Switch
+- 🎓 Master's degree at University of Science & Technology Beijing
+- 🔧 GUI application with PyQt5
 
-## 🌱 I’m currently learning
+## 🌱 Learning...
 
 - CMU 15-445/645 DATABASE SYSTEMS
+- MIT 6.824
 - The Linux Programming Interface: A Linux and UNIX System Programming Handbook
 - Golang
+- Rust
 
-## 🔧 I'm used to working at
+## 🔧 Worked at...
 
-- Software Engineer at Xiaomi.com
-- Software Engineer at JD.com
-
-## ⚡ Fun fact
-
-- Apple Products Lover
-- Like clean code
-- Clean is everything
+- Software Engineer at Xiaomi.com (ETL, Spark, Scala, ELK)
+- Software Engineer at JD.com (Node)
 
 ## 📫 How to reach me
 
