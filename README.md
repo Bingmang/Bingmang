@@ -6,12 +6,12 @@
 <summary><strong>PROFILE</strong>&nbsp&nbsp&nbsp&nbsp <-&nbsp CLICK ME!</summary> 
 <div>
 
-## 🔭 Working on...
+## 🔭 Working on ...
 
-- 🎓 Master's degree at University of Science & Technology Beijing
+- 🎓 Master's degree at University of Science & Technology Beijing (Deep Learning, Computer Vision)
 - 🔧 GUI application with PyQt5
 
-## 🌱 Learning...
+## 🌱 Learning ...
 
 - CMU 15-445/645 DATABASE SYSTEMS
 - MIT 6.824
@@ -19,10 +19,10 @@
 - Golang
 - Rust
 
-## 🔧 Worked at...
+## 🔧 Worked at ...
 
 - Software Engineer at Xiaomi.com (ETL, Spark, Scala, ELK)
-- Software Engineer at JD.com (Node)
+- Software Engineer at JD.com (Node, Devops)
 
 ## 📫 How to reach me
 
