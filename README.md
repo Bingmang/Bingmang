@@ -10,7 +10,7 @@
 ## 🌱 Learning
 
 - Rust
-- Life
+- eBPF
 - 日本語
 
 ## 🔧 Worked at
